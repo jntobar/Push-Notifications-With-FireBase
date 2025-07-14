@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298844365494",
+    "project_id": "flutter-proyects-e66fd",
+    "storage_bucket": "flutter-proyects-e66fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298844365494:android:3b0ce01824d7f9e604bc17",
+        "android_client_info": {
+          "package_name": "com.johntobar.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqh1mpqcyrz05iFCa-Z4fXpzr_Q8w3n2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
